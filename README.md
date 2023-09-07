@@ -1,4 +1,3 @@
 # Utrip
-A simple C++ project using object oriented programming for hotel reservation consist of 3 phases. Phase 1 is just a simple implementation without any interface and statistical operations. In the second phase some statistical approaches has been added to the project. In the third phase a web interface has been added.
-
-Also it was the last Advanced Programming(AP) project which we were supposed to use all we had learned so far.
+This C++ project employs object-oriented programming principles to create a hotel reservation system, progressing through three distinct phases. In Phase 1, the initial implementation is straightforward and lacks any user interface or statistical functionality. Phase 2 introduces statistical methods to enhance the project's capabilities. In the final Phase 3, a web interface is integrated into the system. 
+This project served as the culmination of our Advanced Programming (AP) course, where we were required to apply all the knowledge and skills we had acquired up to that point.
